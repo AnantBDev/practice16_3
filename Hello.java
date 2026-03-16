@@ -11,5 +11,7 @@ System.out.println("Sum is :"+ (a+b));
 String name="Vachan Honnudike";
 System.out.println("Tell me your name?:"+name);
 
+String dev2="Anant Bhardwaj";
+System.out.println("Name of Developer2: "+dev2);
 }
 }

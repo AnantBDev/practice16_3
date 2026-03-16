@@ -1,6 +1,6 @@
 import java.util.*;
 
-class vachan
+class  Hello
 {
 public static void main(String[] args)
 {
